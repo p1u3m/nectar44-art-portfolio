@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+.onex {opacity: 1;
+      filter: alpha(opacity=100);transition: .5s ease;}
+	.onex:hover{opacity: 0.3;
+      filter: alpha(opacity=30);transition: .5s ease;}
+	.onexx {opacity: 1;
+      filter: alpha(opacity=100);transition: .5s ease;}
+	.onexx:hover{opacity: 0.3;
+      filter: alpha(opacity=30);transition: .5s ease;}
+	.onexxx {opacity: 1;
+      filter: alpha(opacity=100);transition: .5s ease;}
+	.onexxx:hover{opacity: 0.3;
+      filter: alpha(opacity=30);transition: .5s ease;}
+	.onexxxx {opacity: 1;
+      filter: alpha(opacity=100);transition: .5s ease;}
+	.onexxxx:hover{opacity: 0.3;
+      filter: alpha(opacity=30);transition: .5s ease;}
+	.onexxxxx {opacity: 1;
+      filter: alpha(opacity=100);transition: .5s ease;}
+	.onexxxxx:hover{opacity: 0.3;
+      filter: alpha(opacity=30);transition: .5s ease;}
+	.two {opacity: 1;
+      filter: alpha(opacity=100);transition: .5s ease;}
+	.two:hover{opacity: 0.3;
+      filter: alpha(opacity=30);transition: .5s ease;}
+	.twox {opacity: 1;
+      filter: alpha(opacity=100);transition: .5s ease;}
+	.twox:hover{opacity: 0.3;
+      filter: alpha(opacity=30);transition: .5s ease;}
+	.twoxx {opacity: 1;
+      filter: alpha(opacity=100);transition: .5s ease;}
+	.twoxx:hover{opacity: 0.3;
+      filter: alpha(opacity=30);transition: .5s ease;}
+	.twoxxx {opacity: 1;
+      filter: alpha(opacity=100);transition: .5s ease;}
+	.twoxxx:hover{opacity: 0.3;
+      filter: alpha(opacity=30);transition: .5s ease;}
+	
